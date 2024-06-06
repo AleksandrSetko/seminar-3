@@ -1,0 +1,15 @@
+/Users/setko/project it/Знакомство с языками программирования/Seminar 3 [Array]/Task1/bin/Debug/net8.0/Task1
+/Users/setko/project it/Знакомство с языками программирования/Seminar 3 [Array]/Task1/bin/Debug/net8.0/Task1.deps.json
+/Users/setko/project it/Знакомство с языками программирования/Seminar 3 [Array]/Task1/bin/Debug/net8.0/Task1.runtimeconfig.json
+/Users/setko/project it/Знакомство с языками программирования/Seminar 3 [Array]/Task1/bin/Debug/net8.0/Task1.dll
+/Users/setko/project it/Знакомство с языками программирования/Seminar 3 [Array]/Task1/bin/Debug/net8.0/Task1.pdb
+/Users/setko/project it/Знакомство с языками программирования/Seminar 3 [Array]/Task1/obj/Debug/net8.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/setko/project it/Знакомство с языками программирования/Seminar 3 [Array]/Task1/obj/Debug/net8.0/Task1.AssemblyInfoInputs.cache
+/Users/setko/project it/Знакомство с языками программирования/Seminar 3 [Array]/Task1/obj/Debug/net8.0/Task1.AssemblyInfo.cs
+/Users/setko/project it/Знакомство с языками программирования/Seminar 3 [Array]/Task1/obj/Debug/net8.0/Task1.csproj.CoreCompileInputs.cache
+/Users/setko/project it/Знакомство с языками программирования/Seminar 3 [Array]/Task1/obj/Debug/net8.0/Task1.sourcelink.json
+/Users/setko/project it/Знакомство с языками программирования/Seminar 3 [Array]/Task1/obj/Debug/net8.0/Task1.dll
+/Users/setko/project it/Знакомство с языками программирования/Seminar 3 [Array]/Task1/obj/Debug/net8.0/refint/Task1.dll
+/Users/setko/project it/Знакомство с языками программирования/Seminar 3 [Array]/Task1/obj/Debug/net8.0/Task1.pdb
+/Users/setko/project it/Знакомство с языками программирования/Seminar 3 [Array]/Task1/obj/Debug/net8.0/Task1.genruntimeconfig.cache
+/Users/setko/project it/Знакомство с языками программирования/Seminar 3 [Array]/Task1/obj/Debug/net8.0/ref/Task1.dll
