@@ -8,6 +8,7 @@
 
 int[] array = {1, 5, 10, 20, 30, 40, 99, 4, 90, 3};
 int count = 0;
+
 foreach (int number in array)
 {
     if (number >= 10 && number <= 90)
@@ -16,6 +17,8 @@ foreach (int number in array)
     }
     return count;
 }
+
+Console.Write(count);
 
 
 
